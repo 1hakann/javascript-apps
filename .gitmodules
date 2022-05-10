@@ -4,3 +4,6 @@
 [submodule "003-random-hex-color-generator-app"]
 	path = 003-random-hex-color-generator-app
 	url = https://github.com/1hakann/003-random-hex-color-generator-app.git
+[submodule "004-modal-app"]
+	path = 004-modal-app
+	url = https://github.com/1hakann/004-modal-app.git
