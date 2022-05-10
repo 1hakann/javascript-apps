@@ -1,3 +1,6 @@
 [submodule "002-generate-number-app"]
 	path = 002-generate-number-app
 	url = https://github.com/1hakann/002-generate-number-app.git
+[submodule "003-random-hex-color-generator-app"]
+	path = 003-random-hex-color-generator-app
+	url = https://github.com/1hakann/003-random-hex-color-generator-app.git
