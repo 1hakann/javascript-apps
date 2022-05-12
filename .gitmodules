@@ -7,3 +7,6 @@
 [submodule "004-modal-app"]
 	path = 004-modal-app
 	url = https://github.com/1hakann/004-modal-app.git
+[submodule "005-palindrome-app"]
+	path = 005-palindrome-app
+	url = https://github.com/1hakann/005-palindrome-app.git
