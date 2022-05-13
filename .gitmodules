@@ -10,3 +10,6 @@
 [submodule "005-palindrome-app"]
 	path = 005-palindrome-app
 	url = https://github.com/1hakann/005-palindrome-app.git
+[submodule "006-vowel-counter-app"]
+	path = 006-vowel-counter-app
+	url = https://github.com/1hakann/006-vowel-counter-app.git
