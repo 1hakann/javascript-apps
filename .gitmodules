@@ -13,3 +13,6 @@
 [submodule "006-vowel-counter-app"]
 	path = 006-vowel-counter-app
 	url = https://github.com/1hakann/006-vowel-counter-app.git
+[submodule "007-click-to-copy-app"]
+	path = 007-click-to-copy-app
+	url = https://github.com/1hakann/007-click-to-copy-app.git
