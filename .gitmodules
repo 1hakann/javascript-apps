@@ -16,3 +16,6 @@
 [submodule "007-click-to-copy-app"]
 	path = 007-click-to-copy-app
 	url = https://github.com/1hakann/007-click-to-copy-app.git
+[submodule "008-character-count"]
+	path = 008-character-count
+	url = https://github.com/1hakann/008-character-count.git
