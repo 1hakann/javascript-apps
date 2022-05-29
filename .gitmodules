@@ -19,3 +19,6 @@
 [submodule "008-character-count"]
 	path = 008-character-count
 	url = https://github.com/1hakann/008-character-count.git
+[submodule "009-internet-connection-app"]
+	path = 009-internet-connection-app
+	url = https://github.com/1hakann/009-internet-connection-app.git
